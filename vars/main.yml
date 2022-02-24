@@ -1,0 +1,3 @@
+---
+# vars file for filebeat-role
+filebeat_version: "{{ elk_stack_version }}"
