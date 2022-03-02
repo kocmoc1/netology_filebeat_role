@@ -1,3 +1,4 @@
 ---
 # vars file for filebeat-role
 filebeat_version: "{{ elk_stack_version }}"
+supported_systems: ['CentOS', 'Red Hat Enterprise Linux', 'Ubuntu', 'Debian']

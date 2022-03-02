@@ -1,6 +1,5 @@
 ---
 # tasks file for filebeat-role
----
 - import_tasks: precheck.yml
 - name: Check files directory exists
   file:
